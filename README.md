@@ -1,1 +1,2 @@
 # Hello
+'[WorldGoldRate](worldgoldrate.com)'
